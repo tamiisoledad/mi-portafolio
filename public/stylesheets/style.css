@@ -1,0 +1,284 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: black;
+  text-decoration: none!important;
+  list-style: none!important;
+}
+
+body{
+  background-image: url("../images/36c415ac9a82e90ed572dd7dcb14f5c4--iphone--wallpaper-iphone-backgrounds.jpg")!important;
+}
+body header a.btn {
+  font-size: 30px;
+}
+body header{
+  margin-bottom: 20px;
+}
+body main {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+body main section{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+body main h1 {
+  text-align: center;
+}
+body main div.foto{
+  background-image: url("../images/foto.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 50%;
+  height: 300px;
+  width: 300px;
+  align-self: center;
+  margin-top: 15px;
+}
+body main section p.nombre {
+  margin-top: 30px;
+  align-self: center;
+  font-size: 25px;
+  font-weight: 400;
+}
+body main section p.puesto{
+  align-self: center;
+  font-size: 20px;
+  font-weight: 400;
+}
+body main section p.busqueda{
+  align-self: center;
+  font-size: 20px;
+  font-weight: 400;
+}
+body main section div.redes{
+  align-self: center;
+  margin-top: 30px;
+  font-size: 50px;
+  display: flex;
+}
+body main section div.redes a{
+  margin-right: 20px;
+}
+body main section div.redes a i{
+  color: rgba(117, 43, 80, 0.76);
+}
+body main section.herramientas h2{
+  align-self: center;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+body main section.herramientas div.r1{
+  align-self: center;
+  display: flex;
+}
+body main section.herramientas div.r1 div.js{
+  background-image: url("../images/1200px-Javascript_badge.svg.png");
+  background-size: cover;
+  width: 100px;
+  height: 100px;
+  align-self: center;
+  margin-right: 60px;
+}
+body main section.herramientas div.r1 div.react{
+  background-image: url("../images/react.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 100px;
+  height: 100px;
+  align-self: center;
+  margin-left: 60px;
+}
+body main section.herramientas div.r2{
+  align-self: center;
+  display: flex;
+  margin-top: 30px;
+}
+body main section.herramientas div.r2 div.node{
+  width: 100px;
+  height: 100px;
+  align-self: center;
+  margin-left: 50px;
+  font-size: 100px;
+}
+body main section.herramientas div.r2 div.node i{
+  color: green;
+}
+body main section.herramientas div.r2 div.express{
+  background-image: url("../images/kisspng-node-js-express-js-javascript-solution-stack-web-a-5b22b9d57436d2.563861541529002453476.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 231px;
+  height: 130px;
+  align-self: center;
+  margin-left: 70px;
+}
+body main section.herramientas div.r3{
+  align-self: center;
+  display: flex;
+  margin-top: 30px;
+}
+body main section.herramientas div.r3 div.mysql{
+  background-image: url("../images/logo-mysql-26300.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 150px;
+  height: 100px;
+  align-self: center;
+ /*  margin-left: 70px; */
+}
+body main section.herramientas div.r3 div.sequelize{
+  background-image: url("../images/file_type_sequelize_icon_130173.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 150px;
+  height: 100px;
+  align-self: center;
+ margin-left: 70px;
+}
+body main section.herramientas div.r4{
+  align-self: center;
+  display: flex;
+  margin-top: 40px;
+}
+body main section.herramientas div.r4 div.html{
+  background-image: url("../images/html5-logo-31813.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 150px;
+  height: 100px;
+  align-self: center;
+}
+body main section.herramientas div.r4 div.css{
+  background-image: url("../images/html5-logo-31821.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 150px;
+  height: 100px;
+  align-self: center;
+ margin-left: 70px;
+}
+body main section.herramientas div.r5{
+  align-self: center;
+  display: flex;
+  margin-top: 40px;
+}
+body main section.herramientas div.r5 div.boot{
+  background-image: url("../images/bootstrap-logo.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 150px;
+  height: 100px;
+  align-self: center;
+}
+body main section.herramientas div.r5 div.git{
+  background-image: url("../images/5847f981cef1014c0b5e48be.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 150px;
+  height: 100px;
+  align-self: center;
+ margin-left: 70px;
+}
+body main section.herramientas div.r6{
+  align-self: center;
+  display: flex;
+  margin-top: 40px;
+}
+body main section.herramientas div.r6 div.java{
+  background-image: url("../images/58480979cef1014c0b5e4901.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 150px;
+  height: 100px;
+  align-self: center;
+}
+body main section.herramientas div.r6 div.eclipse{
+  background-image: url("../images/pngegg.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 150px;
+  height: 100px;
+  align-self: center;
+ margin-left: 70px;
+}
+body main section.herramientas div.r7{
+  align-self: center;
+  display: flex;
+  margin-top: 40px;
+}
+body main section.herramientas div.r7 div.visual{
+  background-image: url("../images/icons8-visual-studio-code-2019-48.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 150px;
+  height: 100px;
+  align-self: center;
+}
+body main section.herramientas div.r7 div.dbeaver{
+  background-image: url("../images/DBeaver-Logo.wine.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 155px;
+  height: 123px;
+  align-self: center;
+ margin-left: 70px;
+}
+body main section.about h2{
+  align-self: center;
+  margin-top: 60px;
+}
+body main section.about div{
+  width: 50%;
+  align-self: center;
+  margin-top: 30px;
+  margin-bottom: 60px;
+  font-size: 20px;
+}
+body footer{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+body footer h2{
+  align-self: center;
+  margin-top: 60px;
+  text-align: center;
+}
+body footer section{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+body footer section div a{
+  text-decoration: none;
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1rem;
+  background-color: #c95656;
+  font-size: 1.5rem;
+  border-radius: 0.3rem;
+  margin-top: 30px;
+  text-align: center;
+}
+body footer section div{
+  align-self: center;
+  margin-top: 30px;
+  margin-bottom: 60px;
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+body footer section a{
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+body footer section a.arrow i{
+  color: rgba(117, 43, 80, 0.76);
+}
