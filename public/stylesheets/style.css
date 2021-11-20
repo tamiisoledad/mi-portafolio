@@ -76,6 +76,8 @@ body main section.herramientas h2{
 body main section.herramientas div.r1{
   align-self: center;
   display: flex;
+  justify-content: space-between;
+  width: 500px;
 }
 body main section.herramientas div.r1 div.js{
   background-image: url("../images/1200px-Javascript_badge.svg.png");
@@ -98,12 +100,13 @@ body main section.herramientas div.r2{
   align-self: center;
   display: flex;
   margin-top: 30px;
+  justify-content: space-between;
+  width: 500px;
 }
 body main section.herramientas div.r2 div.node{
   width: 100px;
   height: 100px;
   align-self: center;
-  margin-left: 50px;
   font-size: 100px;
 }
 body main section.herramientas div.r2 div.node i{
@@ -113,15 +116,16 @@ body main section.herramientas div.r2 div.express{
   background-image: url("../images/kisspng-node-js-express-js-javascript-solution-stack-web-a-5b22b9d57436d2.563861541529002453476.png");
   background-size: cover;
   background-repeat: no-repeat;
-  width: 231px;
-  height: 130px;
+  width: 199px;
+  height: 100px;
   align-self: center;
-  margin-left: 70px;
 }
 body main section.herramientas div.r3{
   align-self: center;
   display: flex;
   margin-top: 30px;
+  justify-content: space-between;
+  width: 500px;
 }
 body main section.herramientas div.r3 div.mysql{
   background-image: url("../images/logo-mysql-26300.png");
@@ -130,27 +134,29 @@ body main section.herramientas div.r3 div.mysql{
   width: 150px;
   height: 100px;
   align-self: center;
- /*  margin-left: 70px; */
+ 
 }
 body main section.herramientas div.r3 div.sequelize{
   background-image: url("../images/file_type_sequelize_icon_130173.png");
   background-size: contain;
   background-repeat: no-repeat;
-  width: 150px;
+  width: 100px;
   height: 100px;
   align-self: center;
- margin-left: 70px;
+ 
 }
 body main section.herramientas div.r4{
   align-self: center;
   display: flex;
   margin-top: 40px;
+  justify-content: space-between;
+  width: 500px;
 }
 body main section.herramientas div.r4 div.html{
   background-image: url("../images/html5-logo-31813.png");
   background-size: contain;
   background-repeat: no-repeat;
-  width: 150px;
+  width: 100px;
   height: 100px;
   align-self: center;
 }
@@ -158,21 +164,23 @@ body main section.herramientas div.r4 div.css{
   background-image: url("../images/html5-logo-31821.png");
   background-size: contain;
   background-repeat: no-repeat;
-  width: 150px;
+  width: 85px;
   height: 100px;
   align-self: center;
- margin-left: 70px;
+
 }
 body main section.herramientas div.r5{
   align-self: center;
   display: flex;
   margin-top: 40px;
+  justify-content: space-between;
+  width: 500px;
 }
 body main section.herramientas div.r5 div.boot{
   background-image: url("../images/bootstrap-logo.png");
   background-size: contain;
   background-repeat: no-repeat;
-  width: 150px;
+  width: 100px;
   height: 100px;
   align-self: center;
 }
@@ -180,21 +188,22 @@ body main section.herramientas div.r5 div.git{
   background-image: url("../images/5847f981cef1014c0b5e48be.png");
   background-size: contain;
   background-repeat: no-repeat;
-  width: 150px;
+  width: 100px;
   height: 100px;
   align-self: center;
- margin-left: 70px;
 }
 body main section.herramientas div.r6{
   align-self: center;
   display: flex;
   margin-top: 40px;
+  justify-content: space-between;
+  width: 500px;
 }
 body main section.herramientas div.r6 div.java{
   background-image: url("../images/58480979cef1014c0b5e4901.png");
   background-size: contain;
   background-repeat: no-repeat;
-  width: 150px;
+  width: 100px;
   height: 100px;
   align-self: center;
 }
@@ -205,18 +214,19 @@ body main section.herramientas div.r6 div.eclipse{
   width: 150px;
   height: 100px;
   align-self: center;
- margin-left: 70px;
 }
 body main section.herramientas div.r7{
   align-self: center;
   display: flex;
   margin-top: 40px;
+  justify-content: space-between;
+  width: 500px;
 }
 body main section.herramientas div.r7 div.visual{
   background-image: url("../images/icons8-visual-studio-code-2019-48.png");
   background-size: contain;
   background-repeat: no-repeat;
-  width: 150px;
+  width: 100px;
   height: 100px;
   align-self: center;
 }
@@ -227,7 +237,6 @@ body main section.herramientas div.r7 div.dbeaver{
   width: 155px;
   height: 123px;
   align-self: center;
- margin-left: 70px;
 }
 body main section.about h2{
   align-self: center;
