@@ -192,29 +192,6 @@ body main section.herramientas div.r5 div.git{
   height: 100px;
   align-self: center;
 }
-body main section.herramientas div.r6{
-  align-self: center;
-  display: flex;
-  margin-top: 40px;
-  justify-content: space-between;
-  width: 500px;
-}
-body main section.herramientas div.r6 div.java{
-  background-image: url("../images/58480979cef1014c0b5e4901.png");
-  background-size: contain;
-  background-repeat: no-repeat;
-  width: 100px;
-  height: 100px;
-  align-self: center;
-}
-body main section.herramientas div.r6 div.eclipse{
-  background-image: url("../images/pngegg.png");
-  background-size: contain;
-  background-repeat: no-repeat;
-  width: 150px;
-  height: 100px;
-  align-self: center;
-}
 body main section.herramientas div.r7{
   align-self: center;
   display: flex;
